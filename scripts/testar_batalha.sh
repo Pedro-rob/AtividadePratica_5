@@ -55,7 +55,7 @@ cat > "$REPORT_HTML" <<EOF
   </style>
 </head>
 <body>
-  <h1 class="emoji">🤖 Relatório do Pipeline Robocode do João Paulo Medeiros Benedicto</h1>
+  <h1 class="emoji">🤖 Relatório do Pipeline Robocode do Pedro Henrique Botelho</h1>
   <table>
     <tr><th>Etapa</th><th>Status</th></tr>
     <tr><td><b>Checkstyle</b></td>          <td>$(html_interpreta "$STATUS_CHECKSTYLE")</td></tr>
